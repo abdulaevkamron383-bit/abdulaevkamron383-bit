@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Krython 👋 16 y.o DevOps / MLOps enthusiast from Tashkent
 
-<!--
-**abdulaevkamron383-bit/abdulaevkamron383-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 My HomeLab:
+- **Server:** Xeon E5-2673 v3 (24 threads) / 32GB RDIMM / Proxmox VE 8.4
+- **Workstation:** i5-13400F / RX 6800 / 32GB
+- **Fleet:** Ubuntu, Debian, AlmaLinux on Proxmox
 
-Here are some ideas to get you started:
+🚀 Currently learning: Linux, Docker, Proxmox, Git, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 Projects:
+- Self-hosted homelab on Proxmox (in progress)
+
+📫 Telegram: @kuroops
