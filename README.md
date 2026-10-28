@@ -1,4 +1,4 @@
-### Hi, I'm Krython 👋 16 y.o DevOps / MLOps enthusiast from Tashkent
+### Hi, I'm Kuro 👋 16 y.o DevOps / MLOps enthusiast from Tashkent
 
 🔧 My HomeLab:
 - **Server:** Xeon E5-2673 v3 (24 threads) / 32GB RDIMM / Proxmox VE 8.4
